@@ -1,0 +1,10 @@
+name: ch2
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pip:
+    - transformers==4.35.2
+    - jupyterlab==4.0.7
+    - torch==2.1.0+cu121
+    - datasets==2.14.6

@@ -1,0 +1,8 @@
+name: ch1
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pip:
+    - transformers==4.34.1
+    - jupyterlab==4.0.7
